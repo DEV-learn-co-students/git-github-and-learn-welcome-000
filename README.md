@@ -2,7 +2,7 @@
 
 ## What is GitHub and Why Should You Care
 
-GitHub is how people build software. With a community of more than 11 million, you can discover, use, and contribute to over 27 million projects with a powerful and social workflow.
+GitHub is how people build software. With a community of more than 13 million, you can discover, use, and contribute to over 27 million projects with a powerful and social workflow.
 
 ![GitHub](https://dl.dropboxusercontent.com/s/y2zk87zccskibyq/2015-09-30%20at%2010.50%20PM.png)
 
@@ -37,3 +37,5 @@ When you signed up for Learn, you connected your GitHub account. This connection
 The Learn and GitHub integration makes Learn unlike any other educational platform, allowing you to learn in the same workflow you will one day use as a professional programmer. If you use professional tools and learn in a real environment, you will master the entire craft of code.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-and-learn' title='Git, Github And Learn'>Git, Github And Learn</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/git-github-and-learn'>Git + Github + Learn</a> on Learn.co and start learning to code for free.</p>
